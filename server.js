@@ -8,6 +8,6 @@ parserController(app);
 
 //listen to port 8080
 //change port to process.env.PORT for use on heroku
-app.listen(8080, function(){
+app.listen(process.env.PORT, function(){
 console.log('Listening to default PORT')
 });
