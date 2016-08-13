@@ -1,5 +1,5 @@
 {
-  "name": "header_parser",
+  "name": "headerparser",
   "version": "1.0.0",
   "description": "request header parser api for fcc",
   "main": "server.js",
