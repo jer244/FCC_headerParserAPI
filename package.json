@@ -9,6 +9,9 @@
   "author": "jeremy hurley",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "nodemon": "^1.10.0",
+    "request-ip": "^1.2.2",
+    "simple-accept-language": "^0.4.0"
   }
 }
